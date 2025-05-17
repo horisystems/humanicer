@@ -40,4 +40,4 @@ This project is licensed under the [BSD 3-Clause License](LICENSE) - see the fil
 
 ### Copyright
 
-(c) 2025 [Hori Systems Limited](https://horisystems.com).
+(c) 2025 [Hori Systems Limited](https://horisystems.com). All Rights Reserved.
