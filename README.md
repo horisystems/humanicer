@@ -1,6 +1,6 @@
 ## Humanicer
 
-[Humanicer](https://humanicer.com) transforms AI-generated content into natural, human-like writing appreciated by search engines and readers. It combines features of an AI text humanizer, an AI writing tool, an AI content detector, and an AI plagiarism checker to deliver authentic, undetectable content consistently.
+[Humanicer](https://humanicer.com) transforms AI-generated text into natural, human-like content while preserving meaning and enhancing readability. Our proprietary technology not only refines tone and style, but also offers built-in citation generation, localization, paraphrasing, plagiarism checking, and a math solver. It supports multiple languages, including English, Spanish, German, French, Yoruba, Japanese, Igbo, Hindi, Hausa, Mandarin Chinese, and more, and seamlessly integrates with all major AI platforms and systems while keeping your data privacy protected.
 
 ### Overview
 
